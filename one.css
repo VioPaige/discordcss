@@ -15,7 +15,7 @@ html.theme-dark {
     --bg-overlay-opacity-selected-inverse: 0.15;
     --bg-overlay-opacity-chat: 0.8;
     --bg-overlay-opacity-home: 0.85;
-    --bg-overlay-opacity-home-card: 0.8
+    --bg-overlay-opacity-home-card: 0.8;
 
 
     --bg-overlay-1: linear-gradient(rgb(var(--bg-overlay-color)/var(--bg-overlay-opacity-1)), rgb(var(--bg-overlay-color)/var(--bg-overlay-opacity-1))) fixed 0 0/cover, var(--custom-theme-background) fixed 0 0/cover;
